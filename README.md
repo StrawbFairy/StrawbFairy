@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there |˶˙ᵕ˙ )ﾉﾞ
 
-<!--
-**StrawbFairy/StrawbFairy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Seraphim, a Computer Science major based in the United States
 
-Here are some ideas to get you started:
+### I am currently focusing on learning how to code websites and video games, as I love graphic design and game development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My main tech stack is in Godot, Framer, typescript, VS code, and react
+
+### projects will be added soon ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+
+### Feel free to reach out for projects; I am also looking for mentors that can teach me game development and robotics!
+
+## Fun Facts:
+
+### I have 1 cat named Bee, he's my little pandemic baby ₍^. .^₎⟆
+### I DM a pirate themed Dungeons and Dragons game with an all girls group!
+### Hobbies: Drawing, video games (cozy, combat, or rythm games), taking photos of flowers on walks, graphic design (huge Canva fan)
