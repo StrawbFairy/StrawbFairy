@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there |˶˙ᵕ˙ )ﾉﾞ<br>I'm Seraphim, a Computer Science major based in the United States<br>I am currently focusing on learning how to code websites and video games, as I love graphic design and game development<br>My main tech stack is in Godot, Framer, typescript, VS code, and react
 
-projects will be added soon ദ്ദി(˵ •̀ ᴗ - ˵ ) 
+Most recent project: Mad Libbs story generator ദ്ദി(˵ •̀ ᴗ - ˵ ) 
 
 ✧ Feel free to reach out for projects; I am also looking for mentors that can teach me game development and robotics!
 
